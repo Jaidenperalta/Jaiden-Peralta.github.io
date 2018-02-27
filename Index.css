@@ -1,0 +1,4 @@
+a { color: darkred;
+text-decoration:none }
+a:hover { color: red }
+body {background: red; color: black; font-size: 14pt;}
